@@ -1,7 +1,7 @@
 <!-- Last updated: 2025-08-21T17:25:27Z -->
 # 🤖 Minecraft AFK Bot (Mineflayer-Based)
 
-This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://github.com/PrismarineJS/mineflayer). It connects to a Java server, performs basic movements to avoid AFK detection, and can be customized via a simple configuration file.
+This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://github.com/PrismarineJS/mineflayer). It connects to a Java server, performs basic movements to avoid AFK detection, to mantain the server online and can be customized via a simple configuration file.
 
 ---
 
@@ -10,6 +10,8 @@ This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://git
 - Before starting the bot, please make sure that the Offline Mode (Pirated/Not Original) option in the settings section of your Aternos server is active.
 
 - Secure the bot to protect it from monsters in the game.
+
+- Aternos may ban you if it detects that you are using a bot, use this carefully.
 
 ---
 
@@ -102,4 +104,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Get started now and keep your server active with a smart, customizable bot! ⛏️
+Get started now and keep your server active with the best afk-bot! ⛏️
