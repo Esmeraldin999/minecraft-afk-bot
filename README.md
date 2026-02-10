@@ -101,6 +101,12 @@ Feel free to contribute by opening a pull request or submitting an issue.
 
 This project is licensed under the MIT License.
 
+## 📧 **Contact**
+
+Have questions or feedback? Feel free to open an issue or reach out on [GitHub](https://github.com/esmeraldin999).
+
+Do you want to request a service? Contact us via our [Website](https://esmeraldin.base44.app)
+
 ---
 
 Get started now and keep your server active with the best afk-bot! ⛏️
