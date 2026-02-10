@@ -107,6 +107,3 @@ Have questions or feedback? Feel free to open an issue or reach out on [GitHub](
 
 Do you want to request a service? Contact us via our [Website](https://esmeraldin.base44.app)
 
----
-
-Get started now and keep your server active with the best afk-bot! ⛏️
