@@ -98,7 +98,7 @@ Feel free to contribute by opening a pull request or submitting an issue.
 
 ## ☁️ Free Cloud Hosting
 
-You may prefer to not run Sherlock on your own device, in wich case you could run Sherlock in the cloud without downloading anything using the **Github Codespaces** for free or any other cloud hosting service like google cloud shell or Apify.
+You may prefer to not run this bot on your own device, in wich case you could run this project in the cloud without downloading anything using the **Github Codespaces** for free or any other cloud hosting service like google cloud shell or Apify.
 
 ## 📄 License
 
