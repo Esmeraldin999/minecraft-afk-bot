@@ -39,7 +39,7 @@ cd Minecraft-AFK-Bot
 npm install
 ```
 
-### 3. Configure `config.json`
+### 3. Configure `config.json (exemple)`
 
 ```json
 {
@@ -73,7 +73,7 @@ On successful connection:
 | Key            | Description                                |
 | -------------- | ------------------------------------------ |
 | `serverHost`         | IP or domain of your Minecraft server      |
-| `serverPort`         | Server port (default is 25565)             |
+| `serverPort`         | Server port (If the ip is test.aternos.me:**15179**, use 15179)              |
 | `botUsername`     | The bot's visible name in-game             |
 | `botChunk` | Radius of loaded chunks (recommended: 1–6) |
 
