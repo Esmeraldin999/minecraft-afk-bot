@@ -53,7 +53,6 @@ npm install
 ```
 
 > ⚠️ Make sure the server is in offline mode if you're not using premium accounts.
-> ❌ It may not work in newer versions!
 
 ---
 
