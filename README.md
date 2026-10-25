@@ -5,11 +5,13 @@ This is the ultimate Minecraft Java AFK Bot powered by https://github.com/Prisma
 
 ## ⚠️ Warning Before You Begin
 
-- Before starting the bot, please make sure that the Offline Mode (Pirated/Not Original) option in the settings section of your Aternos server is active.
+- Before starting the cracked version of the bot, please make sure that the Offline Mode (Pirated/Not Original) option in the settings section of your Aternos server is active.
 
 - Secure the bot to protect it from monsters in the game.
 
 - Aternos may ban you if it detects that you are using a bot, use this carefully.
+
+- It may not work in newer versions!
 
 ---
 
@@ -51,6 +53,7 @@ npm install
 ```
 
 > ⚠️ Make sure the server is in offline mode if you're not using premium accounts.
+> ❌ It may not work in newer versions!
 
 ---
 
@@ -84,6 +87,7 @@ On successful connection:
 * **Skins**: Skins might not appear properly if the server is in offline mode.
 * **Sneak Movement**: The bot uses `setControlState('sneak', true)`, but some servers may block or ignore this action.
 * **AFK Prevention**: The bot periodically moves, sneaks, and jumps to prevent disconnection due to inactivity.
+* **Warning**: It may not work in newer versions!
 
 ---
 
@@ -94,7 +98,6 @@ On successful connection:
 
 Feel free to contribute by opening a pull request or submitting an issue.
 
----
 
 ## ☁️ Free Cloud Hosting
 
